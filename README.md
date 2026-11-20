@@ -161,4 +161,5 @@ README.md                              Project documentation
 ## Author
 
 **Palash** | Data Analyst
+
 LinkedIn: [linkedin.com/in/palashadyalkar](https://www.linkedin.com/in/palashadyalkar)
